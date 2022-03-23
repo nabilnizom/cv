@@ -1,0 +1,122 @@
+body {
+  font-family: 'Nunito', sans-serif;
+  text-align: center;
+  background-color: #2D2424;
+  color: #E0C097;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 5rem;
+}
+
+.subheader {
+  margin-top: 0;
+}
+
+h2 {
+  font-family: 'EB Garamond', serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'EB Garamond', serif;
+}
+
+a {
+  text-decoration: none;
+  color: #B85C38;
+  font-weight: 600;
+}
+
+hr {
+  border: none;
+  border-top: 5px dotted;
+  width: 40px;
+  color: #B85C38;
+}
+
+p {
+  line-height: 2;
+}
+
+.top-container {
+  margin: 30vh auto 35vh auto;
+}
+
+.middle-container {
+  display: block;
+}
+
+.profile {
+  margin: 40vh auto 40vh auto;
+  width: 50%;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skills {
+  margin: 35vh auto 35vh auto;
+  width: 50%;
+}
+
+.contact-me {
+  margin: 40vh auto 40vh auto;
+}
+
+.bottom-container {
+  bottom: 0;
+  background-color: #80432D;
+  width: 100%;
+  margin-top: 30px;
+  padding-top: 30px;
+}
+
+.helloMallow {
+  height: 200px;
+}
+
+.skill-row > img {
+  width: 25%;
+}
+
+.designIcon {
+  float: left;
+  margin-right: 30px;
+}
+
+.coffeeIcon {
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me {
+  line-height: 2;
+}
+
+.btn {
+  background-image: linear-gradient(#B85C38, #80432d);
+  padding: 0.5em 1em 0.5em 1em;
+  border-radius: 10px;
+  color: #E0C097;
+  box-shadow: 2px 3px 6px #222222;
+}
+
+.btn:hover {
+  background-image: linear-gradient(#C27B61, #9C523A)
+}
+
+.bottom-container > a {
+  color: #2D2424;
+  line-height: 2;
+}
+
+.contact-description {
+  margin: 50px auto 50px auto;
+  width: 50%;
+}
